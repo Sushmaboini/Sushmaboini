@@ -9,7 +9,7 @@
 ## 🚀 About Me
 I'm Sushma, an Electronics and Communication Engineering graduate with a strong interest in software development. After completing my Industrial Training at NSIC, I've become passionate about the tech industry and am now focused on enhancing my coding skills to prepare for a career as a software developer. I enjoy the challenge of solving problems through code and love continuously learning new skills and technologies.
 
-- 🔭 Currently working on: **Building my personal portfolio** with HTML and CSS.
+- 🔭 Currently working on: **[Building my personal portfolio](https://yourportfolio-link.com)** with HTML and CSS.
 - 🎯 Goals: Preparing for **software developer interviews** by refining my technical and problem-solving skills.
 - 🌱 Learning Focus: Frontend development, Python programming, and core software development concepts.
 - 🎉 Recent Achievement: Earned a **CodeDex badge** in Python Control Flow!
@@ -26,7 +26,7 @@ Outside of coding, I have a few hobbies and interests that keep me inspired and 
 ## 💼 Skills
 Here are some of the skills I've been honing as I prepare for my career in software development:
 - **Programming Languages:** Python, HTML, CSS
-- **Tools & Technologies:** Git, GitHub, Visual Studio Code
+- **Tools & Technologies:** Git, GitHub, Visual Studio Code, Figma (for design)
 - **Core Concepts:** Data Structures, Control Flow, Basic Algorithms
 - **Learning Focus:** Web Development, Frontend Skills, and Problem-Solving Techniques
 
@@ -34,19 +34,21 @@ Here are some of the skills I've been honing as I prepare for my career in softw
 
 ## 📚 Projects
 Check out some of the projects I've been working on (more to come soon!):
-<!-- Hidden resources for personal reference
-[Portfolio project](https://sushmaboini.github.io/Personal_Portfolio/) --> – A showcase of my projects, skills, and resume, built using HTML and CSS.
+- [**Portfolio Website**](https://yourportfolio-link.com) – A showcase of my projects, skills, and resume, built using HTML and CSS.
 - **Mock Interview Prep Projects** – Practicing coding problems to prepare for software developer interviews.
 
 ---
 
 ## 🌐 Connect with Me
 I’m always open to networking and collaboration opportunities! Feel free to reach out or follow my journey here:
-- **LinkedIn:**[Connect with me on LinkedIn](https://www.linkedin.com/in/sushma-boini-aa889b28a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIKdk4X2dRaa2Tepy6QL8Rw%3D%3D)
-- **Email:** sushmaboini899@gmail.com
-<!-- Hidden resources for personal reference
-[Resume](https://resume.example.com)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sushma-boini-aa889b28a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIKdk4X2dRaa2Tepy6QL8Rw%3D%3D)
+- **Email:** sushma.boini@example.com
+
+<!-- Hidden Links for Future Reference:
+[CodeDex Profile](https://www.codedex.io/@sushmaboini89914066)
+[Resume](https://yourresume-link.com)
 -->
+
 ---
 
 ## 📖 Quote I Live By
