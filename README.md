@@ -45,8 +45,8 @@ I’m always open to networking and collaboration opportunities! Feel free to re
 - **Email:** sushmaboini899@gmail.com
 
 
-- [CodeDex Profile](https://www.codedex.io/@sushmaboini89914066)
-- [Resume](https://drive.google.com/file/d/1n4AZEtABzpecJT5UD9Yo1I7gPf1_Zt3C/view?usp=sharing)
+- [**Codedex_Profile**](https://www.codedex.io/@sushmaboini89914066)
+- [**Resume**](https://drive.google.com/file/d/1n4AZEtABzpecJT5UD9Yo1I7gPf1_Zt3C/view?usp=sharing)
 
 
 ---
