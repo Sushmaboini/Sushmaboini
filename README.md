@@ -26,7 +26,7 @@ Outside of coding, I have a few hobbies and interests that keep me inspired and 
 ## 💼 Skills
 Here are some of the skills I've been honing as I prepare for my career in software development:
 - **Programming Languages:** Python, HTML, CSS
-- **Tools & Technologies:** Git, GitHub, Visual Studio Code, Figma (for design)
+- **Tools & Technologies:** Git, GitHub, Visual Studio Code
 - **Core Concepts:** Data Structures, Control Flow, Basic Algorithms
 - **Learning Focus:** Web Development, Frontend Skills, and Problem-Solving Techniques
 
