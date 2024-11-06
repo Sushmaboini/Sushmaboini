@@ -9,7 +9,7 @@
 ## 🚀 About Me
 I'm Sushma, an Electronics and Communication Engineering graduate with a strong interest in software development. After completing my Industrial Training at NSIC, I've become passionate about the tech industry and am now focused on enhancing my coding skills to prepare for a career as a software developer. I enjoy the challenge of solving problems through code and love continuously learning new skills and technologies.
 
-- 🔭 Currently working on: **[Building my personal portfolio](https://yourportfolio-link.com)** with HTML and CSS.
+- 🔭 Currently working on: **[Building my personal portfolio](https://sushmaboini.github.io/Personal_Portfolio/)** with HTML and CSS.
 - 🎯 Goals: Preparing for **software developer interviews** by refining my technical and problem-solving skills.
 - 🌱 Learning Focus: Frontend development, Python programming, and core software development concepts.
 - 🎉 Recent Achievement: Earned a **CodeDex badge** in Python Control Flow!
@@ -34,7 +34,7 @@ Here are some of the skills I've been honing as I prepare for my career in softw
 
 ## 📚 Projects
 Check out some of the projects I've been working on (more to come soon!):
-- [**Portfolio Website**](https://yourportfolio-link.com) – A showcase of my projects, skills, and resume, built using HTML and CSS.
+- [**Portfolio Website**](https://sushmaboini.github.io/Personal_Portfolio/) – A showcase of my projects, skills, and resume, built using HTML and CSS.
 - **Mock Interview Prep Projects** – Practicing coding problems to prepare for software developer interviews.
 
 ---
@@ -46,7 +46,7 @@ I’m always open to networking and collaboration opportunities! Feel free to re
 
 <!-- Hidden Links for Future Reference:
 [CodeDex Profile](https://www.codedex.io/@sushmaboini89914066)
-[Resume](https://yourresume-link.com)
+[Resume](https://drive.google.com/file/d/1n4AZEtABzpecJT5UD9Yo1I7gPf1_Zt3C/view?usp=sharing)
 -->
 
 ---
