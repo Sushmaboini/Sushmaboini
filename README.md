@@ -44,7 +44,7 @@ Check out some of the projects I've been working on (more to come soon!):
 I’m always open to networking and collaboration opportunities! Feel free to reach out or follow my journey here:
 - **LinkedIn:**[Connect with me on LinkedIn](https://www.linkedin.com/in/sushma-boini-aa889b28a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIKdk4X2dRaa2Tepy6QL8Rw%3D%3D)
 - **Email:** sushmaboini899@gmail.com
-- <!-- Hidden resources for personal reference
+<!-- Hidden resources for personal reference
 [Resume](https://resume.example.com)
 -->
 ---
