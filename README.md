@@ -42,12 +42,12 @@ Check out some of the projects I've been working on (more to come soon!):
 ## 🌐 Connect with Me
 I’m always open to networking and collaboration opportunities! Feel free to reach out or follow my journey here:
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sushma-boini-aa889b28a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIKdk4X2dRaa2Tepy6QL8Rw%3D%3D)
-- **Email:** sushma.boini@example.com
+- **Email:** sushmaboini899@gmail.com
 
-<!-- Hidden Links for Future Reference:
-[CodeDex Profile](https://www.codedex.io/@sushmaboini89914066)
-[Resume](https://drive.google.com/file/d/1n4AZEtABzpecJT5UD9Yo1I7gPf1_Zt3C/view?usp=sharing)
--->
+
+- [CodeDex Profile](https://www.codedex.io/@sushmaboini89914066)
+- [Resume](https://drive.google.com/file/d/1n4AZEtABzpecJT5UD9Yo1I7gPf1_Zt3C/view?usp=sharing)
+
 
 ---
 
