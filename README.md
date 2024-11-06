@@ -34,7 +34,7 @@ Here are some of the skills I've been honing as I prepare for my career in softw
 
 ## 📚 Projects
 Check out some of the projects I've been working on (more to come soon!):
-- <!-- Hidden resources for personal reference
+<!-- Hidden resources for personal reference
 [Portfolio project](https://sushmaboini.github.io/Personal_Portfolio/) --> – A showcase of my projects, skills, and resume, built using HTML and CSS.
 - **Mock Interview Prep Projects** – Practicing coding problems to prepare for software developer interviews.
 
