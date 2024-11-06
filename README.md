@@ -35,16 +35,18 @@ Here are some of the skills I've been honing as I prepare for my career in softw
 ## 📚 Projects
 Check out some of the projects I've been working on (more to come soon!):
 - <!-- Hidden resources for personal reference
-[Portfolio project](https://portfolio.example.com) -->– A showcase of my projects, skills, and resume, built using HTML and CSS.
+[Portfolio project](https://sushmaboini.github.io/Personal_Portfolio/) --> – A showcase of my projects, skills, and resume, built using HTML and CSS.
 - **Mock Interview Prep Projects** – Practicing coding problems to prepare for software developer interviews.
 
 ---
 
 ## 🌐 Connect with Me
 I’m always open to networking and collaboration opportunities! Feel free to reach out or follow my journey here:
-- **LinkedIn:** [linkedin.com/in/sushma-boini](#)
+- **LinkedIn:**[Connect with me on LinkedIn](https://www.linkedin.com/in/sushma-boini-aa889b28a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIKdk4X2dRaa2Tepy6QL8Rw%3D%3D)
 - **Email:** sushmaboini899@gmail.com
-
+- <!-- Hidden resources for personal reference
+[Resume](https://resume.example.com)
+-->
 ---
 
 ## 📖 Quote I Live By
