@@ -1,60 +1,85 @@
-# Hi there 👋, I'm Sushma Boini!
+Hi there 👋, I'm Sushma Boini!
 
-👩‍🎓 **Electronics and Communication Engineer (ECE)**  
-💻 **Aspiring Software Developer**  
-🏅 **CodeDex Python Control Flow Badge Holder**  
+👩‍🎓 Electronics and Communication Engineer (ECE)
+🤖 Embedded Systems & Robotics Enthusiast
+💻 Aspiring Software & Embedded Developer
 
----
+🚀 About Me
 
-## 🚀 About Me
-I'm Sushma, an Electronics and Communication Engineering graduate with a strong interest in software development. After completing my Industrial Training at NSIC, I've become passionate about the tech industry and am now focused on enhancing my coding skills to prepare for a career as a software developer. I enjoy the challenge of solving problems through code and love continuously learning new skills and technologies.
+I’m Sushma, a final-year Electronics and Communication Engineering student with a growing interest in both core electronics and software development. Having completed my Industrial Training at NSIC and multiple hands-on projects, I’m passionate about bridging the gap between hardware and software.
 
-- 🔭 Currently working on: **[Building my personal portfolio](https://sushmaboini.github.io/Personal_Portfolio/)** with HTML and CSS.
-- 🎯 Goals: Preparing for **software developer interviews** by refining my technical and problem-solving skills.
-- 🌱 Learning Focus: Frontend development, Python programming, and core software development concepts.
-- 🎉 Recent Achievement: Earned a **CodeDex badge** in Python Control Flow!
-- ⚡ Fun fact: I enjoy discovering productivity hacks, self-improvement techniques, and efficient ways to tackle complex problems!
+I enjoy working on embedded systems, robotics, and IoT applications, while also building strong foundations in programming and web development. My ultimate goal is to secure a role in Embedded Systems / Core Electronics / Software Development, where I can apply my skills to solve real-world problems.
 
----
+🔭 Currently working on: Smart & IoT-based projects and my personal portfolio.
 
-## 💡 Hobbies & Interests
-Outside of coding, I have a few hobbies and interests that keep me inspired and energized:
-- **Reading:** From tech blogs to self-improvement books, I love discovering new perspectives.
-- **Video Editing:** Creating and editing videos is my creative outlet, letting me experiment with visual storytelling.
-- **Exploring Tech Trends:** I stay updated with the latest developments in tech and software.
+🎯 Goals: Preparing for core electronics and software interviews.
 
-## 💼 Skills
-Here are some of the skills I've been honing as I prepare for my career in software development:
-- **Programming Languages:** Python, HTML, CSS
-- **Tools & Technologies:** Git, GitHub, Visual Studio Code, Figma (for design)
-- **Core Concepts:** Data Structures, Control Flow, Basic Algorithms
-- **Learning Focus:** Web Development, Frontend Skills, and Problem-Solving Techniques
+🌱 Learning Focus: Embedded Systems, VLSI basics, Control Systems, Python, Frontend Development, and Problem-Solving.
 
----
+🎉 Recent Achievements: Built Smart Street Light, ATM project (8086 Assembly), and participated in a National Hackathon in IoT & Embedded Systems.
 
-## 📚 Projects
-Check out some of the projects I've been working on (more to come soon!):
-- [**Portfolio Website**](https://sushmaboini.github.io/Personal_Portfolio/) – A showcase of my projects, skills, and resume, built using HTML and CSS.
-- **Mock Interview Prep Projects** – Practicing coding problems to prepare for software developer interviews.
+⚡ Fun fact: I love combining creativity (like video editing) with technology to build impactful solutions!
 
----
+💼 Skills
+🔹 Core Electronics
 
-## 🌐 Connect with Me
-I’m always open to networking and collaboration opportunities! Feel free to reach out or follow my journey here:
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sushma-boini-aa889b28a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIKdk4X2dRaa2Tepy6QL8Rw%3D%3D)
-- **Email:** sushmaboini899@gmail.com
+Embedded Systems (Arduino, Keil, 8086 Assembly)
 
+Microprocessors & Microcontrollers
 
-- **Codedex Profile:** [Check out my profile](https://www.codedex.io/@sushmaboini89914066)
--  **Resume:** [My Resume](https://drive.google.com/file/d/1n4AZEtABzpecJT5UD9Yo1I7gPf1_Zt3C/view?usp=sharing)
+Digital Signal Processing (MATLAB)
 
+IoT Applications (sensors, actuators, real-time tracking systems)
 
----
+Robotics Projects (Autonomous Traffic Control Robot, Smart Helmet, Smart Bike System)
 
-## 📖 Quote I Live By
-> **"Continuous learning fuels success."**  
-This quote reminds me of the value of growth and curiosity, as I work toward a career in software development.
+🔹 Software Development
 
----
+Programming: Python, C, Java (basics), HTML, CSS
 
-Thanks for visiting my profile! 😊 Feel free to explore my repositories and connect. I’m excited to keep learning, building, and contributing to the tech community.
+Core Concepts: Data Structures, Control Flow, Algorithms
+
+Tools & Technologies: Git, GitHub, VS Code, Figma
+
+📚 Projects
+
+Here are some highlights from my academic and personal projects:
+
+Smart Street Light – Automated lighting system for energy efficiency.
+
+ATM Project (8086 Assembly) – Implemented using microprocessors.
+
+Heartbeat Signal Processing (MATLAB) – Designed for health monitoring and alerts.
+
+Smart Bike System – Safety-focused system with helmet detection, alcohol detection, drowsiness monitoring, and IoT integration.
+
+GitHub Bus Live Tracking System (Clone) – Real-time tracking system implementation.
+
+Blind Stick Project – Assistive device for the visually impaired.
+
+Portfolio Website
+ – Showcasing my skills, projects, and resume.
+
+💡 Hobbies & Interests
+
+Exploring Tech Trends – Keeping up with the latest in IoT, robotics, and AI.
+
+Reading & Self-Improvement – Books, blogs, and productivity hacks.
+
+Video Editing & Creativity – A way to express ideas visually.
+
+🌐 Connect with Me
+
+LinkedIn: Connect with me
+
+Email: sushmaboini899@gmail.com
+
+Codedex Profile: My Codedex
+
+Resume: View My Resume
+
+📖 Quote I Live By
+
+"Continuous learning fuels success."
+
+This mindset drives me to explore, experiment, and evolve in both electronics and software development.
