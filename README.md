@@ -59,10 +59,10 @@ Here are some of my academic & personal projects:
 ---
 
 ## 🌐 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/sushma-boini-aa889b28a)  
+- [LinkedIn]https://www.linkedin.com/in/sushma-boini-aa889b28a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeDvqEL3NT4KtqI0ABLL1pA%3D%3D  
 - 📧 Email: **sushmaboini899@gmail.com**  
-- [Codedex Profile](https://www.codedex.io/@sushmaboini89914066)  
-- [Resume](https://drive.google.com/file/d/1n4AZEtABzpecJT5UD9Yo1I7gPf1_Zt3C/view?usp=sharing)  
+- [Codedex Profile] https://www.codedex.io/@sushmaboini 
+- [Resume]https://drive.google.com/file/d/1fPdne56YB-aG1JNBs5JWed02pIC8AUZz/view?usp=drivesdk  
 
 ---
 
