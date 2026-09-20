@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-I’m Sushma, a final-year **Electronics and Communication Engineering student** with a strong interest in both **core electronics** and **software development**.  
+I’m Sushma, a **Electronics and Communication Engineering student** graduate with a strong interest in both **core electronics** and **software development**.  
 
 After completing my **Industrial Training at NSIC** and working on multiple hands-on projects, I became passionate about solving real-world problems by integrating **hardware and software**.  
 
